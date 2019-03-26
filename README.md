@@ -7,7 +7,7 @@
 $ sudo apt-get install aptitude
 ```
 
-2- Baixar todos os pacotes na versão correta, acessar a pasta em que fez o download dos arquivos e instalar por meio do comando: / Download all packages in the correct version, open the folder where the files downloaded and install by the command:
+2- Baixar todos os pacotes, acessar a pasta em que fez o download dos arquivos e instalar por meio do comando: / Download all packages, open the folder where the files downloaded and install by the command:
 
 
 ```sh
